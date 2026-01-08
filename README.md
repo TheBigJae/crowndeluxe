@@ -1,16 +1,25 @@
-# crowndeluxe
+# crownmobile
 
-A new Flutter project.
+Crownmobile Sample App.
+## App preview 
 
-## Getting Started
+![Simulator Screen Recording - iPhone 16e - 2025-12-27 at 23 41 50](https://github.com/user-attachments/assets/1fc1aff4-741b-428b-95aa-e978392c8fe9)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## State management: Riverpod
+Flutter Screen Util (to scale font & widget sizes)
+Fonts (NeueMontreal)
+Image Cache
+## Products
+ - Fetch products from API endpoint (upstream)
+ - Categorize products into sub categories
+## Cart
+ - Add product to cart
+ - Increment product order quantity
+ - Decrement product order quantity
+ - Delete prouduct from cart
+ - Cart total item
+ - Cart total price
